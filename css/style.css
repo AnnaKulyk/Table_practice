@@ -1,0 +1,33 @@
+body{
+    cursor: pointer;
+}
+
+table{
+    border-radius: 12px;
+    border-style: solid;
+    border-color: grey;
+    width: 90%;
+    color:black;
+    box-sizing: border-box;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.header {background-color:#7887ab; }
+
+tr {
+    padding:px;
+}
+
+tr:nth-child(odd) { background-color: #dbdbdb; }
+tr:nth-child(even) { background-color: #2E3337; }
+td:nth-child(odd) { background-color: ; #ECECEC; }
+td:nth-child(even) { background-color: #F3F3F3; }
+
+.button{
+    color: white;
+    text-align: center;
+}
+ div{
+     width: 50px;
+ }
